@@ -22,7 +22,7 @@
     }
 
     .side-2 {
-        background-image: url(images/side-image.jpg);
+        background-image: url(../images/side-image.jpg);
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
