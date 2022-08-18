@@ -11,7 +11,7 @@
 
 Projeto de uma página com um formulário de login adaptada para várias telas.
 
- <h3 align="center"><a target="_blank" href="https://gerador-tabuada.herokuapp.com/">Veja a página funcionando 👀</a></h3>
+ <h3 align="center"><a target="_blank" href="https://bright-crumble-dc0b82.netlify.app/">Veja a página funcionando 👀</a></h3>
 
 <hr>
 <br>
