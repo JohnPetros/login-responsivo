@@ -1,0 +1,32 @@
+@media (min-width: 1300px) {
+    body {
+        flex-direction: row;
+        padding: 0;
+        justify-content: space-between;
+    }
+
+    .side-1 {
+        width: 50vw;
+        padding: 40px 74px;
+    }
+
+    .form-login {
+        margin-top: 80px;
+        background-color: var(--form-background);
+        padding: 55px 120px;
+
+    }
+
+    .form-login header .login-action .login-title h1 {
+        font-size: 2.4rem;
+    }
+
+    .side-2 {
+        background-image: url(images/side-image.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 50vw;
+        height: 100%;
+    }
+}
